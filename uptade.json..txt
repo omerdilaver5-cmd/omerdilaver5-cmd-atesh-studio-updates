@@ -1,0 +1,7 @@
+{
+    "version":  "5.6.0",
+    "download_url":  "https://raw.githubusercontent.com/omerdilaver5-cmd/atesh-studio-updates/main/Atesh-Studio-5.6.0-update.zip",
+    "sha256":  "5aceaf17fe4a7e003c0724498f887aaf8c0659cf846e1ea0df5a92f052ed3120",
+    "notes":  "V5.6: kolay Windows kurulumu, uygulama içi güncelleme ve kullanıcı verilerini koruma.",
+    "required":  false
+}
